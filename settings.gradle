@@ -1,0 +1,6 @@
+rootProject.name = 'bt'
+include 'order_service'
+include 'inventory-service'
+include 'notification-service'
+include 'delivery-service'
+include 'payment-service'
